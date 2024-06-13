@@ -11,42 +11,42 @@
         "API_ID": {
         "description": "Get this value from https://my.telegram.org",
         "required": true,
-        "value": ""
+        "value": "29426486"
         },
         
         "API_HASH": {
         "description": "Get this value from https://my.telegram.org" ,
         "required": true,
-        "value": ""
+        "value": "d71ad4ec048ab41677a1a439b21ff0c9"
         },
         
         "BOT_TOKEN": {
         "description": "Get Bot Token From BotFather Bot",
         "required": true,
-        "value": ""
+        "value": "6965255627:AAGHAspJSX01m1vaKfp6faZdWRJg-hDQtKg"
         },
         
         "GROUP_1_LINK": {
         "description": "Customizeble group 1 link.",
         "required": true, 
-        "value": "https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"
+        "value": "https://t.me/+pnW3R9wQSuM5ODU0"
         },
         
         "GROUP_2_LINK": {
         "description": "Customizeble group 2 link.",
         "required": true,
-        "value": "https://t.me/telegrm_music9"
+        "value": "https://t.me/+pnW3R9wQSuM5ODU0"
         },
         
         "GROUP_1_NAME": {
         "description": "Customizeble group 1 name.", "required": true,
-        "value": "🎄 Alpha-X-Community"
+        "value": " Dramas pvt"
         },
         
         "GROUP_2_NAME": {
         "description": "Customizeble group 2 name.",
         "required": true, 
-        "value": "✨️ Telegram-Group"
+        "value": " Telegram-Group"
         },
         
         "START_PIC": {
