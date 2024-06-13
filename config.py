@@ -1,14 +1,14 @@
 import  os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-APP_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
-G1N = os.environ.get("GROUP_1_NAME")
-G2N = os.environ.get("GROUP_2_NAME")
-G1L = os.environ.get("GROUP_1_LINK")
-G2L = os.environ.get("GROUP_2_LINK")
-SPIC = os.environ.get("START_PIC")
-HPIC = os.environ.get("HELP_PIC")
+BOT_TOKEN = os.environ.get("6965255627:AAGHAspJSX01m1vaKfp6faZdWRJg-hDQtKg")
+APP_ID = int(os.environ.get("29426486"))
+API_HASH = os.environ.get("d71ad4ec048ab41677a1a439b21ff0c9")
+G1N = os.environ.get(" Dramas pvt")
+G2N = os.environ.get(" Dramas pvt")
+G1L = os.environ.get("https://t.me/+pnW3R9wQSuM5ODU0")
+G2L = os.environ.get("https://t.me/+pnW3R9wQSuM5ODU0")
+SPIC = os.environ.get("https://mallucampaign.in/images/img_1718008711.jpg")
+HPIC = os.environ.get("https://mallucampaign.in/images/img_1718008711.jpg")
 youtube_next_fetch = 0 
 EDIT_TIME = 5
 
